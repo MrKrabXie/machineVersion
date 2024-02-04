@@ -2,6 +2,7 @@ import cv2
 import pytesseract
 import os
 
+# 优化方向的话看到的博客， 记录一下： URL::  https://blog.csdn.net/javastart/article/details/104105540
 # 设置TESSDATA_PREFIX环境变量，指向tessdata文件夹所在的路径
 os.environ['TESSDATA_PREFIX'] = r'C:\Program Files\Tesseract-OCR\tessdata'
 
