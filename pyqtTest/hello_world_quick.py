@@ -1,7 +1,7 @@
 import sys
 from PySide6.QtGui import QGuiApplication
 from PySide6.QtQml import QQmlApplicationEngine
-#
+# https://doc.qt.io/qtforpython-6/quickstart.html#quick-start
 # 这两个示例是使用 PySide6 创建简单 Qt 应用的不同实现方式：
 #
 # 1. **QML 版本：**
